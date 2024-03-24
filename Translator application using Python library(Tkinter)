@@ -1,6 +1,8 @@
 ##TITLE OF THE PROGECT:- TRANSLATOR APPLICATION USING TKINTER
 ##The Python Tkinter Translator Application is a user-friendly tool designed to facilitate language translation with ease. Leveraging the Tkinter library, this application provides a simple and intuitive graphical user interface (GUI) for users to input text in one language and obtain its translation in another language.
 
+##Source Code:-
+
 
 from tkinter import *
 from tkinter import ttk
